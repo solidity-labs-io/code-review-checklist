@@ -7,7 +7,7 @@ The checklist consists of a series of steps and considerations that provide a co
 ## Checklist
 
 1. **Meeting kickoff**: The code author should provide context on software architecture.
-2. **Review of fixes from the previous session**: Explain the underlying issues and their solutions if previous sessions have been had or discovered vulnerabilities or issues.
+2. **Review of fixes from the previous session**: Explain the underlying issues and their solutions if previous sessions have discovered vulnerabilities or issues.
 3. **Review of changes since the last review**: Discuss each module's dependencies and changes.
 4. **Line-by-line walk-through**: Go through each variable and function, stating assumptions on expected system behavior, and identify which users or actors can manipulate which values.
 5. **Review of external calls**: Ensure that all external calls function as intended and are secured against potential threats.
