@@ -1,6 +1,6 @@
 # Code Review Checklist
 
-Before we dive into the checklist, it's crucial to understand its role and how to use it effectively. This checklist is a set of steps that facilitates an in-depth and systematic review of smart contract code changes. It's designed to ensure a thorough understanding of the code, its connections with other systems, and its potential issues.
+This checklist is a set of steps that facilitates an in-depth and systematic review of smart contract code changes. It's designed to ensure a thorough understanding of the code, its connections with other systems, and its potential issues.
 
 ## Checklist
 
