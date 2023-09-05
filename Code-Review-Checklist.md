@@ -1,8 +1,6 @@
 # Code Review Checklist
 
-Before we dive into the checklist, it's crucial to understand its role and how to use it effectively. This checklist is a tool that facilitates an in-depth and systematic review of smart contract code. It's designed to ensure a thorough understanding of the code, its connections with other systems, and its potential issues. By following this checklist during a review meeting, the team can minimize oversights, and hopefully identify any and all potential bugs before external security researchers are brought in for an audit.
-
-The checklist consists of a series of steps and considerations that provide a comprehensive review of the code's functionality, efficiency, and security. Each item should be diligently reviewed and discussed with the team, with internal consensus being reached before moving on to the next item. The purpose is not merely to complete the checklist, but to gain a holistic understanding of the code and its potential implications. Following this approach will ensure that the review process is not just a formality, but a valuable step in the development process.
+Before we dive into the checklist, it's crucial to understand its role and how to use it effectively. This checklist is a set of steps that facilitates an in-depth and systematic review of smart contract code changes. It's designed to ensure a thorough understanding of the code, its connections with other systems, and its potential issues.
 
 ## Checklist
 
@@ -21,6 +19,6 @@ The checklist consists of a series of steps and considerations that provide a co
 
 Remember, following this checklist diligently helps to enhance the internal security posture. However, it's not a substitute for a full audit, which is a comprehensive and systematic examination of the entire codebase by external security researchers. The combination of vigilant internal security posture and a thorough external audit is the key to a robust and secure system.
 
-Recommended Additional Checklists:
+## Recommended Additional Checklists
 - [Simple Security Toolkit](https://github.com/nascentxyz/simple-security-toolkit/blob/main/audit-readiness-checklist.md)
 - [Solcurity](https://github.com/transmissions11/solcurity)
