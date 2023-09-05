@@ -14,4 +14,4 @@ An audit log is a valuable resource for maintaining and enhancing the internal s
 
 5. **Duration of break taken between writing this code**: Record the time taken between coding sessions. This data point might seem trivial, but stepping away from the code for over a day can provide a fresh perspective and aid in identifying potential issues that could have been missed previously.
 
-This checklist serves as a general guide for creating an audit log and may need to be adapted to fit the specific needs and workflows of your team. Regular use of this checklist, combined with a thorough external audit, will help create a robust, secure, and high-quality codebase.
+This checklist serves as a general guide for creating an audit log and may need to be adapted to fit the specific needs and workflows of your team.
