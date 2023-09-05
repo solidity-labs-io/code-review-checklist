@@ -15,7 +15,7 @@ This checklist is a set of steps that facilitates an in-depth and systematic rev
 9. **Front running**: Analyze potential front-running risks and vulnerabilities.
 10. **Assumptions around unchecked or other gas optimizations**: Discuss any assumptions made regarding gas optimizations, particularly those left unchecked.
 11. **Review of a slither run**: If uncertain about any finding’s severity, perform and review a slither run.
-12. **Documentation of findings**: Record findings in an internal audit log on the PR. This helps document changes over time serves as a reference point for future audits and contributors to understand a projects security posture and architectural decisions that were made over time.
+12. **Documentation of findings**: Record findings in an internal [audit log](Audit-Log-Template.md) on the PR. This helps document changes over time serves as a reference point for future audits and contributors to understand a projects security posture and architectural decisions that were made over time.
 
 Remember, following this checklist diligently helps to enhance the internal security posture. However, it's not a substitute for a full audit, which is a comprehensive and systematic examination of the entire codebase by external security researchers. The combination of vigilant internal security posture and a thorough external audit is the key to a robust and secure system.
 
